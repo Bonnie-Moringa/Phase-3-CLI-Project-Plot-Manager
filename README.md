@@ -36,12 +36,9 @@ phase-3-project/
 Installation: Clone the repository, install dependencies using Pipenv, and initialize the database.
 Usage: Utilize the CLI commands provided (addagent, addproperty, addclient, viewproperties, viewclients) to manage agents, properties, and clients efficiently from the command line.
 
-## Commands
-Add agent: pipenv run python lib/cli.py addagent
-Add property: pipenv run python lib/cli.py addproperty
-Add client: pipenv run python lib/cli.py addclient
-View properties: pipenv run python lib/cli.py viewproperties
-View clients: pipenv run python lib/cli.py viewclients
+## Commands to run the project
+Run pyhton lib/cli.py in the terminal
+Choose one option from the ones provided
 
 ## Purpose
 This tool offers an easy-to-use interface for managing real estate operations, allowing users to efficiently handle consultant details, project listings, customer registrations, and data access within a SQLite database. It's ideal for real estate professionals or agencies seeking a simple digital solution for organizing their workflows.
